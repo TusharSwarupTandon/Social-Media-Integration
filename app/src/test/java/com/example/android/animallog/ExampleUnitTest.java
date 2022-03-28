@@ -1,4 +1,4 @@
-package com.example.android.integrate;
+package com.example.android.animallog;
 
 import org.junit.Test;
 

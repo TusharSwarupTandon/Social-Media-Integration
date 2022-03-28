@@ -5,25 +5,12 @@
 
     <ImageView
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/center_piece"
-        android:layout_above="@id/login_facebook_button"/>
+        android:layout_height="match_parent"
+        android:src="@drawable/al_login_integrated"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="90dp"/>
 
-    <com.facebook.login.widget.LoginButton
-        android:id="@+id/login_facebook_button"
-        android:layout_width="360dp"
-        android:layout_height="wrap_content"
-        android:paddingTop="15dp"
-        android:paddingBottom="15dp"
-        android:layout_above="@id/sign_in_button"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginLeft="40dp"
-        android:layout_marginRight="40dp"
-        android:layout_marginBottom="30dp"
-        android:minHeight="50dp"
-        xmlns:facebook="http://schemas.android.com/apk/res-auto"
-        facebook:com_facebook_login_text="Connect with Facebook"
-        facebook:com_facebook_logout_text="Connect with Facebook    "/>
 
     <com.google.android.gms.common.SignInButton
         android:layout_width="match_parent"

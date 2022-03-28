@@ -1,4 +1,4 @@
-package com.example.android.integrate;
+package com.example.android.animallog;
 
 import android.content.Intent;
 import android.os.Bundle;

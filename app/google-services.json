@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "487683441761",
-    "project_id": "integrate-fadbe",
-    "storage_bucket": "integrate-fadbe.appspot.com"
+    "project_number": "713204798917",
+    "project_id": "animal-log-c5e9b",
+    "storage_bucket": "animal-log-c5e9b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:487683441761:android:fc120cad9f4a31e7f55620",
+        "mobilesdk_app_id": "1:713204798917:android:53c5790dcff74d86bda7ac",
         "android_client_info": {
-          "package_name": "com.example.android.integrate"
+          "package_name": "com.example.android.animallog"
         }
       },
       "oauth_client": [
         {
-          "client_id": "487683441761-ogicidpvdb4oa553es24h911vg0717ah.apps.googleusercontent.com",
+          "client_id": "713204798917-89n95bkhk7vib23shj6f598icolvbm94.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.android.integrate",
+            "package_name": "com.example.android.animallog",
             "certificate_hash": "266f17e148d5210e65ac767738014e7c55dc9d7b"
           }
         },
         {
-          "client_id": "487683441761-af9mfvb1uruftssp228g47hgau62ho33.apps.googleusercontent.com",
+          "client_id": "713204798917-ghn5mv1vgunrao4smfst1ibkpj0ouvu4.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA44mTyUST81BfiO6qVcy0A-ggWxHyoDwk"
+          "current_key": "AIzaSyBzRM2YjYJF00xJELI6Dwrt4ZDAVOFv9rg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "487683441761-af9mfvb1uruftssp228g47hgau62ho33.apps.googleusercontent.com",
+              "client_id": "713204798917-ghn5mv1vgunrao4smfst1ibkpj0ouvu4.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
